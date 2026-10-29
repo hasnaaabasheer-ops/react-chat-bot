@@ -1,0 +1,31 @@
+Assignment: Pass a Student's Name Between React Components
+
+Objective: Learn how to pass data from one React component to another using props.
+
+Requirements:
+
+Create two React components: NameInput and NameDisplay.
+
+In the NameInput component, create a text input field where the user can enter their name.
+
+Create a button labeled Submit.
+
+When the user enters their name and clicks Submit, pass the name to the NameDisplay component using props.
+
+The NameDisplay component should display the entered name.
+
+Expected Output:
+
+When the user enters Adhnan and clicks Submit, the page should display:
+
+Hello, Adhnan!
+
+Conditions:
+
+Use React functional components.
+
+Use the useState hook to store the input.
+
+Pass the name from one component to another using props.
+
+Keep the input and display logic in separate components.
